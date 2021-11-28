@@ -7,10 +7,10 @@ We want to make it easy for programmers to communicate between frontend and back
 
 <br />
 
-<p align="center">How it will look like:</p>
-<p align="center">
+<details>
+  <summary>OPEN ME TO SEE WHAT IT WILL LOOK LIKE</summary>
   <img src="sampleCode.svg"
      alt="code here"
      style="width: 68%;"
      align="center"/>
-</p>
+</details>
