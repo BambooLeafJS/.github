@@ -11,6 +11,6 @@ We want to make it easy for programmers to communicate between frontend and back
 <p align="center">
   <img src="sampleCode.svg"
      alt="code here"
-     style="width: 75%;"
+     style="width: 60%;"
      align="center"/>
 </p>
