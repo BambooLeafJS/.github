@@ -1,4 +1,4 @@
-<h1 align="center">LLeafJS Labs 🍃</h1>
+<h1 align="center">LeafJS Labs 🍃</h1>
 
 ## 🗄️ Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LLeafJSLabs&repo=lleaf.js&theme=blue-green&show_owner=false)](https://github.com/LLeafJSLabs/lleaf.js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeafJSLabs&repo=leaf.js&theme=blue-green&show_owner=false)](https://github.com/LeafJSLabs/leaf.js)
