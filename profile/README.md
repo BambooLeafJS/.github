@@ -6,8 +6,8 @@
 
 ## Members
 
-### [Jonak-Adipta-Kalita](https://jonakadiptakalita.herokuapp.com/)
-### [DasLixou](https://github.com/DasLixou)
+-	[Jonak-Adipta-Kalita](https://jonakadiptakalita.herokuapp.com/)
+-	[DasLixou](https://github.com/DasLixou)
 
 ## 🗄️ Projects
 
