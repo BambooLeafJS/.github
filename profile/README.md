@@ -1,4 +1,14 @@
-<h1 align="center">BeastTrees 🌴🏕</h1>
+<div align="center">
+
+# BeastTrees 🌴🏕
+
+</div>
+
+## Members
+
+### [Jonak-Adipta-Kalita](https://jonakadiptakalita.herokuapp.com/)
+### [DasLixou](https://github.com/DasLixou)
 
 ## 🗄️ Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeastTrees&repo=leaf.js&theme=blue-green&show_owner=false)](https://github.com/BeastTrees/leaf.js)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BeastTrees&repo=leaf.js&theme=blue-green&show_owner=false)](https://github.com/BeastTrees/leaf.js)
