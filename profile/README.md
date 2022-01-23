@@ -12,3 +12,4 @@
 ## 🗄️ Projects
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BeastTrees&repo=leaf.js&theme=blue-green&show_owner=false)](https://github.com/BeastTrees/leaf.js)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BeastTrees&repo=BeastLang&theme=blue-green&show_owner=false)](https://github.com/BeastTrees/BeastLang)
